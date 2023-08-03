@@ -1,8 +1,14 @@
 
-# 基础
+# 基础原则
 
 
-# 进阶 langGPT
+#  CR原则
+[ CRISPE 框架)](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List#creating-chatgpt-prompts-a-framework)
+
+
+
+
+# 结构化原则
 
 [Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/) 非常值得学习，内容很强大。
 
@@ -11,6 +17,8 @@ langGPT 结构化指令模板，初始版本参考
 
 核心原理：
 chatGPT 非常擅长角色扮演，所以我们要尽可能的把当前 chat 下，角色的能力、擅长领域、回答风格，都尽可能详细的符合自己预期的行为全部描述出来，所以产生了这个结构化模板，用来定义一个角色的全方面。
+
+## 自定义 prompt 模板
 
 ```markdown
 
@@ -66,3 +74,29 @@ As a/an <Role>, you must follow the <Rules>, you must talk to user in default <L
 
 
 ```
+
+## langGPT prompt 生成模板
+
+```markdown
+
+
+
+
+```
+
+# 遗留问题
+
+结构化 Prompt 依赖于基座模型能力，并不能解决模型本身的问题，结构化 Prompt 并不能突破大模型 Prompt 方法本身的局限性。
+
+已知的无法解决的问题：
+
+- 大模型本身的幻觉问题
+- 大模型本身知识老旧问题
+- 大模型的数学推理能力弱问题 (解数学问题)
+- 大模型的视觉能力弱问题(构建 SVG 矢量图等场景)
+- 大模型字数统计问题（不论是字符数和 token 数，大模型都无法统计准确。需要输出指定字数时，将数值设定的高一些，后期自己调整一下，比如希望他输出100字文案，告诉他输出150字。）
+- 同一 Prompt 在不同模型间的性能差异问题
+- 其他已知问题等
+
+可参考：[构建生产级鲁棒高性能 Prompt](https://zhuanlan.zhihu.com/p/636016460)
+
