@@ -1,0 +1,1 @@
+[文心一言 (baidu.com)](https://yiyan.baidu.com/promptCenter) 百度文心一言官方 prompt 库。

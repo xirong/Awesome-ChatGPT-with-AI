@@ -1,12 +1,21 @@
 
 # 基础原则
 
+提示词可以包含以下任意要素：
+**指令**：想要模型执行的特定任务或指令。
+**上下文**：包含外部信息或额外的上下文信息，引导语言模型更好地响应。
+**输入数据**：用户输入的内容或问题。
+**输出指示**：指定输出的类型或格式。
 
-#  CR原则
-[ CRISPE 框架)](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List#creating-chatgpt-prompts-a-framework)
 
 
 
+#  身份角色指令原则
+[ CRISPE 框架)](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List#creating-chatgpt-prompts-a-framework) 是个非常火的框架，国内很多抽象出来的定义身份、指令、动作的模板最初都来自这个，读一读该原版理解会更深入。
+
+该框架应用的案例：[Prompt 优化专家](prompts-example/角色指令类/Prompt%20优化专家.md)
+
+![[mmexport1691165652563.jpg]]
 
 # 结构化原则
 

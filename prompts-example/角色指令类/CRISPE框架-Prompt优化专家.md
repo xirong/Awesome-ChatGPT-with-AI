@@ -1,3 +1,7 @@
+#chatGPT-prompt
+
+[prompt原则](../../prompt-Writing.md#^7873f5)中有关于 CRISPE 的介绍
+
 ````Markdown
 #Profile:
     author:小七姐@JackeyLiu
@@ -46,5 +50,7 @@
 
 要求：请避免讨论[CRISPE提示框架]里的内容；
 
-如果你准备好了，告诉我。
+如果你准备好了，告诉我。如果我输入 restart，那么我们重新开始一个新的 prompt 撰写。
 ````
+
+
