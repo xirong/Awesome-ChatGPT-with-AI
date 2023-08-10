@@ -2,6 +2,8 @@
 
 [prompt原则](../../prompt-Writing.md#^7873f5)中有关于 CRISPE 的介绍
 
+下面的 prompt 是利用 ChatGPT，根据 CRISPE 框架，根据你的需求，来优化合适的prompt，效果要比自己写的好一些，当然你也可以随时优化这里面的内容。
+
 ````Markdown
 #Profile:
     author:小七姐@JackeyLiu

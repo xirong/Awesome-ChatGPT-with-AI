@@ -287,7 +287,7 @@ Actual solution:
 中文翻译：xxxx
 
     """
-    print(get_completion(prompt9))
+    print(get_completion(prompt6))
     printSeparator()
 
 # 检查脚本是否直接执行

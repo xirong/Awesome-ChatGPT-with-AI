@@ -1,7 +1,3 @@
-学习如何写提示词（prompt）最好的教程就是官网网站[GPT best practices - OpenAI API](https://platform.openai.com/docs/guides/gpt-best-practices) ，不要害怕英文，现在这个时代，语言早已不是问题，各类翻译引擎翻译效果已经非常好了。
-
-
-# 基础原则
 
 提示词可以包含以下任意要素：
 **指令**：想要模型执行的特定任务或指令。
@@ -10,25 +6,106 @@
 **输出指示**：指定输出的类型或格式。
 
 
+# 基础原则
+
+学习如何写提示词（prompt）最好的教程就是官网网站[GPT best practices - OpenAI API](https://platform.openai.com/docs/guides/gpt-best-practices) ，不要害怕英文，现在这个时代，语言早已不是问题，各类翻译引擎翻译效果已经非常好了。
+
+todo: 这里把翻译的中文放一放
 
 
 #  身份角色指令原则
-[ CRISPE 框架)](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List#creating-chatgpt-prompts-a-framework) 是个非常火的框架，国内很多抽象出来的定义身份、指令、动作的模板最初都来自这个，读一读该原版理解会更深入。
+这大概是在 3-5 月份网络上非常火爆的 prompt 撰写方案，效果比普通的的确要好，用一张图来解读就是如下：
 
-该框架应用的案例：[Prompt 优化专家](prompts-example/角色指令类/Prompt%20优化专家.md)
+![mmexport1691165652563|400](../_resources/mmexport1691165652563.jpg)
 
-![[mmexport1691165652563.jpg]]
+
+起源来自国外的一个哥们的这篇文章[CRISPE 框架介绍)](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List#creating-chatgpt-prompts-a-framework) 是个非常火的框架，国内很多抽象出来的定义身份、指令、动作的模板最初都来自这个，读一读该原版理解会更深入，简单翻译成中文，核心内容如下：
+
+**CRISPE提示框架的内容包括**：
+- 能力和角色：ChatGPT应扮演什么角色（或多个角色）
+- 上下文：为您的请求提供幕后洞察、背景和上下文。
+- 指令：您要求ChatGPT做什么。
+- 要求：您希望ChatGPT以何种风格、个性或方式进行回答。
+- 案例：要求ChatGPT向您提供多个示例。
+
+举个例子：
+
+|   |   |
+|---|---|
+|步骤|Example Prompt|
+|能力和角色|`在机器学习框架的软件开发方面担任专家，并且是一位博客写作专家。`|
+|上下文|`这个博客的受众是对机器学习最新进展感兴趣的技术专业人士。`|
+|指令|`提供对最流行的机器学习框架进行全面概述，包括它们的优点和缺点。包括真实案例和案例研究，以说明这些框架在各个行业中如何成功应用。`|
+|要求|`当回答时，请使用Andrej Karpathy、Francois Chollet、Jeremy Howard和Yann LeCun的写作风格的混合。`|
+|案例|`给我几个不同的例子`|
+
+The final prompt being:
+
+> Act as an expert on software development on the topic of machine learning frameworks, and an expert blog writer. The audience for this blog is technical professionals who are interested in learning about the latest advancements in machine learning. Provide a comprehensive overview of the most popular machine learning frameworks, including their strengths and weaknesses. Include real-life examples and case studies to illustrate how these frameworks have been successfully used in various industries. When responding, use a mix of the writing styles of Andrej Karpathy, Francois Chollet, Jeremy Howard, and Yann LeCun.
+
+中文提示词：
+> 你是机器学习框架的软件开发领域的一名专家，并且是一位专业的博客写作作家。这篇博客的受众是对了解机器学习最新进展感兴趣的技术专业人员。需要你提供对最流行的机器学习框架进行全面概述，包括它们的优点和缺点。通过真实案例和案例研究来说明这些框架在各个行业中成功应用的情况。回答时，请使用Andrej Karpathy、Francois Chollet、Jeremy Howard和Yann LeCun等人的写作风格相结合。
+
+该框架应用的案例，在目录 `prompts-example` 下 `角色指令类`文件夹，可快速跳到模板：[CRISPE框架-让ChatGPT帮你优化Prompt](prompts-example/角色指令类/CRISPE框架-让ChatGPT优化Prompt.md)
 
 
 # 结构化原则
 
-[Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/) 非常值得学习，内容很强大。
+起源于[Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/)  一个 AI 导师，帮你制定高中、大学、研究生不同深度的学习计划，涵盖全方位。
 
-langGPT 结构化指令模板，初始版本参考
-> [LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt](https://github.com/yzfly/LangGPT/tree/main)
+比如让他帮忙制定 ChatGPT 的学习计划，高中水平 vs 大学水平 vs 研究生 vs 博士生，如下图，大家仔细看就能看出差别：
 
-核心原理：
+|  **学历** | **课程**  |
+|---|---|
+|高中水平| ![highschool\|200](../_resources/highscrool.jpg)|
+|大学水平| ![Undergraduate\|200](../_resources/undersch.jpg)|
+|研究生| ![Master\|200](../_resources/Master.jpg)|
+|博士|![phd\|200](../_resources/phd.jpg) |
+
+想自己体验的可以直接点击这个[Ranedeer ChatGPT分享链接](https://chat.openai.com/share/53b38605-68e5-4922-81fe-e4588fb28d8a)，点击继续对话就能体验。
+
+
+Mr.-Ranedeer-AI-Tutor 这个prompt非常值得学习，内容很强大，但同时也很复杂，由于又都是英文，对普通人来说有点困难，国内的 @yzfly 基于此，抽象做了一个 langGPT，参考：[LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt](https://github.com/yzfly/LangGPT/tree/main)
+
+>  LangGPT 指在解决上面的问题：
+>
+> - 系统性：提供`模板`，按照模板填鸭式写上相应内容即可
+> - 灵活性：
+>   - 使用`变量`，轻松引用、设置和更改 prompt 中的内容，可编程性好
+>   - 使用`命令`，轻松设置、执行预定义行为，可以**无损性能情况下轻松设置中英文切换**
+> - 交互友好：`Workflow` 轻松定义与用户交互，角色行为等，轻松引导用户使用
+> - 充分利用大模型能力：
+>   - 模块化配置
+>  - 分点条理性叙述
+>   - `Reminder` 缓解长期记忆缺失问题
+
+通过掌握使用 LangGPT，你可以在几分钟内轻松上手大模型指令编写。🚀
+
+**核心原理**：
 chatGPT 非常擅长角色扮演，所以我们要尽可能的把当前 chat 下，角色的能力、擅长领域、回答风格，都尽可能详细的符合自己预期的行为全部描述出来，所以产生了这个结构化模板，用来定义一个角色的全方面。
+
+**Role 模板**：
+主要包含四部分内容:
+- `Profile` 角色的简历: 角色描述，角色特点，角色技能以及你想要的其他角色特性。
+- `Rules` 角色必须遵守的规则，通常是角色必须做的或者禁止做的事情，比如 "不许打破角色设定" 等规则。
+- `Workflow` 角色的工作流，需要用户提供怎样的输入，角色如何响应用户。
+- `Initialization` 按照 Role 模板的配置初始化角色，大部分时候使用模板默认内容即可
+
+Role 模板通过上面四个部分内容即可定义和配置一个角色。
+
+同时如需要加入指令，记忆等功能编写复杂的 prompt，只需添加相应的段落即可，可参考高级用法部分。
+
+Role 模板使用步骤：
+1. 设置角色名：将 `Role: Your_Role_Name` 中的 `Your_Role_Name` 替换为你的角色名
+2. 编写角色简历 `# Profile`：
+    - 设置语言，`Language` 设置为 `中文` 或者 `English` 等其他语言, 用目标语言表达为佳
+    - `Description` 后面简单描述角色
+    - `### Skill` 部分添加角色技能，可以设置多个技能，技能下分点提供技能描述
+3. 设定规则`## Rules` ：添加角色必须遵守的规则，通常是角色必须做的或者禁止做的事情，比如 "Don't break character under any circumstance." "禁止出戏" 等规则
+4. 设定工作流`## Workflow`：角色如何与用户交互，需要用户提供怎样的输入，角色如何响应用户。
+5. 初始化角色`## Initialization`：Role 模板依据模板内容对角色进行设定，一般不需要修改。
+6. 将编写好的 Role 模板内容复制到 ChatGPT 对话框（or API）愉快使用~
+
 
 ## 自定义 prompt 模板
 
@@ -89,12 +166,7 @@ As a/an <Role>, you must follow the <Rules>, you must talk to user in default <L
 
 ## langGPT prompt 生成模板
 
-```markdown
-
-
-
-
-```
+具体参考： [[langGPT-prompt-模板](prompts-example/langGPT/langGPT-prompt-模板.md)]
 
 # ChatGPT custom instruct prompts
 
