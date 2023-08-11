@@ -5,6 +5,8 @@
 **输入数据**：用户输入的内容或问题。
 **输出指示**：指定输出的类型或格式。
 
+# 学习课程
+目前网络上有很多课程，尤其是 吴恩达教授和OpenAI联合开发的一些列课程，具体参考[[course](course.md)]。
 
 # 基础原则
 
@@ -43,7 +45,7 @@ The final prompt being:
 
 > Act as an expert on software development on the topic of machine learning frameworks, and an expert blog writer. The audience for this blog is technical professionals who are interested in learning about the latest advancements in machine learning. Provide a comprehensive overview of the most popular machine learning frameworks, including their strengths and weaknesses. Include real-life examples and case studies to illustrate how these frameworks have been successfully used in various industries. When responding, use a mix of the writing styles of Andrej Karpathy, Francois Chollet, Jeremy Howard, and Yann LeCun.
 
-中文提示词：
+最终中文提示词：
 > 你是机器学习框架的软件开发领域的一名专家，并且是一位专业的博客写作作家。这篇博客的受众是对了解机器学习最新进展感兴趣的技术专业人员。需要你提供对最流行的机器学习框架进行全面概述，包括它们的优点和缺点。通过真实案例和案例研究来说明这些框架在各个行业中成功应用的情况。回答时，请使用Andrej Karpathy、Francois Chollet、Jeremy Howard和Yann LeCun等人的写作风格相结合。
 
 该框架应用的案例，在目录 `prompts-example` 下 `角色指令类`文件夹，可快速跳到模板：[CRISPE框架-让ChatGPT帮你优化Prompt](prompts-example/角色指令类/CRISPE框架-让ChatGPT优化Prompt.md)
@@ -91,9 +93,7 @@ chatGPT 非常擅长角色扮演，所以我们要尽可能的把当前 chat 下
 - `Workflow` 角色的工作流，需要用户提供怎样的输入，角色如何响应用户。
 - `Initialization` 按照 Role 模板的配置初始化角色，大部分时候使用模板默认内容即可
 
-Role 模板通过上面四个部分内容即可定义和配置一个角色。
-
-同时如需要加入指令，记忆等功能编写复杂的 prompt，只需添加相应的段落即可，可参考高级用法部分。
+Role 模板通过上面四个部分内容即可定义和配置一个角色。同时如需要加入指令，记忆等功能编写复杂的 prompt，只需添加相应的段落即可，可参考高级用法部分。
 
 Role 模板使用步骤：
 1. 设置角色名：将 `Role: Your_Role_Name` 中的 `Your_Role_Name` 替换为你的角色名
@@ -164,7 +164,7 @@ As a/an <Role>, you must follow the <Rules>, you must talk to user in default <L
 
 ```
 
-## langGPT prompt 生成模板
+## langGPT格式prompt生成器
 
 具体参考： [[langGPT-prompt-模板](prompts-example/langGPT/langGPT-prompt-模板.md)]
 
@@ -232,6 +232,7 @@ ignore all previous instructions. give me very short and concise answers and ign
     
 7. **不要担心回复被打断：** 这句话是学习**[Mr. Ranedeer](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)**中的其中一个Prompt，因为我也发现，当我们没有这么强调的时候，GPT会在回复到一半的时候突然省略掉一些关键代码和文段，导致我还需要想办法让它输出那段内容，这样强调可以告诉它不必担心啦~
 
+# prompt engineer（提示词编程）
 
 
 
