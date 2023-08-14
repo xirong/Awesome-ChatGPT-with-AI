@@ -26,3 +26,8 @@
 这个详细参考 [prompt-Writing](prompt-Writing.md)
 
 # 对未来的影响
+
+> 对于现阶段来说，LLM 是一个 Copilot。它不会不改变软件工程的专业分工，但增强每个专业技术，基于AI的研发工具平台辅助工程师完成任务，影响个体工作。
+> thoutworks - Phodal
+
+![|600](_resources/Pasted%20image%2020230814213942.png)
