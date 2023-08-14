@@ -6,6 +6,8 @@
 
 # 向普通人解释 GPT 原理
 
+[通俗解构语言大模型的工作原理](https://mp.weixin.qq.com/s/PPXaOrLnIV6JlXvgYB74Wg) 这里面文字白话介绍词向量、词预测、以及Transformer架构原理，整篇文章篇幅很短，适合粗略的阅读看看，里面说的 transformer 架构可以看这个小视频，更加形象的理解 https://m.okjike.com/originalPosts/64be4d567b5daee543aba806
+
 
 
 # GPT 学习课程
@@ -22,3 +24,5 @@
 # 写好提示词
 
 这个详细参考 [prompt-Writing](prompt-Writing.md)
+
+# 对未来的影响

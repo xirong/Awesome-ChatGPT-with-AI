@@ -12,6 +12,8 @@
 
 学习如何写提示词（prompt）最好的教程就是官网网站[GPT best practices - OpenAI API](https://platform.openai.com/docs/guides/gpt-best-practices) ，不要害怕英文，现在这个时代，语言早已不是问题，各类翻译引擎翻译效果已经非常好了。
 
+其实英文写prompt，效果最好的，为什么？可以参考这篇文章 [探索大语言模型时代的语言不平等问题](https://mp.weixin.qq.com/s/wDQ9o-3hnDcmWVMj6WdO2Q) 
+
 todo: 这里可以找找翻译的好的中文资料
 
 
