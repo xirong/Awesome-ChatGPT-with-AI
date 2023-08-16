@@ -12,8 +12,6 @@
 
 # GPT 学习课程
 
-^e3c1ba
-
 ![|500](_resources/Pasted%20image%2020230811102958.png)
 
 [吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》 (github.com)](https://github.com/datawhalechina/prompt-engineering-for-developers)
@@ -23,9 +21,10 @@
 
 # 写好提示词
 
-这个详细参考 [prompt-Writing](prompt-Writing.md)
+这个有一篇 md 是专门写提示词的，详细参考 [人人必备的高质量提示词撰写技巧](prompt-Writing.md)
 
-# 对未来的影响
+
+# 大模型对未来的影响
 
 > 对于现阶段来说，LLM 是一个 Copilot。它不会不改变软件工程的专业分工，但增强每个专业技术，基于AI的研发工具平台辅助工程师完成任务，影响个体工作。
 > thoutworks - Phodal
