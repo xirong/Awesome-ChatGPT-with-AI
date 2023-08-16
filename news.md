@@ -1,0 +1,1 @@
+[AIGC“尖峰系列” | OpenAI CEO最新访谈，3万字全文详述技术、竞争、恐惧和人类与AI的未来 (qq.com)](https://mp.weixin.qq.com/s/nRqz8sUB5J0MXeY8bn1lBg)
