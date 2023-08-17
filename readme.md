@@ -31,7 +31,10 @@ ChatGPT 官网网址： https://chat.openai.com ，作为互联网人的个体�
 - Claude2 效果比 chatGPT 要好，比 GPT-4 要差，但对于普通用户来说，注册及其简单，美国/英国网络地址，输入邮箱即可使用。 官网地址： https://claude.ai  ，Claude2 的能力可以参考这篇文章[重磅！Claude vs GPT-4：14.5亿美元投资背后的AI大战，个人免费，数据已到2023年！ (qq.com)](https://mp.weixin.qq.com/s/DSVEXAJ_K9z6fwQpcGLsjg)
 - New bing ，GPT-4 能力加持下的新一代搜索引擎，专注于搜索，能搜到最新的新闻资讯。官网地址： https://www.bing.com ，显示不出来的，把地址更换到美国，使用美国梯子。
 - Google Bard ，相比前面的 chatGPT、Claude2、New bing，个人感觉效果最差的一个，好在免费，要给 Google 账号既可以试用，注意美国梯子。 官网地址： https://bard.google.com/
+- 编程类：Github copilot ，进化非常快，辅助编程的日常工作的确能带来效率提升。 官网地址： https://github.com/features/copilot
+- 国内的大模型，目前个人感觉还比较落后，地址不列举了，感兴趣的自己去官网体验吧。
 
+至于 GPT-4 ，个人推荐有余力的同学尽快开通体验，目前业界最顶级的大模型，紧跟 AI 大时代的发展，就得多体验，多思考，升级 GPT-4 [汇总4 类升级GPT-4的方法，总有一种适合你](upgrade-GPT-4.md)
 
 # GPT 论文
 
