@@ -34,7 +34,13 @@ ChatGPT 官网网址： https://chat.openai.com ，作为互联网人的个体�
 - 编程类：Github copilot ，进化非常快，辅助编程的日常工作的确能带来效率提升。 官网地址： https://github.com/features/copilot
 - 国内的大模型，目前个人感觉还比较落后，地址不列举了，感兴趣的自己去官网体验吧。
 
+### GPT-4
+
 至于 GPT-4 ，个人推荐有余力的同学尽快开通体验，目前业界最顶级的大模型，紧跟 AI 大时代的发展，就得多体验，多思考，升级 GPT-4 [汇总4 类升级GPT-4的方法，总有一种适合你](upgrade-GPT-4.md)
+
+### 加快梯子上网速度
+
+之前写过一篇文章，介绍 [What is Clash? | Clash (dreamacro.github.io)](https://dreamacro.github.io/clash/)  clash 软件如何自定义配置，加快访问速度的，经过同事们的体验，效果的确比默认要好很多，大家有需要的也可以配置下，配置方法参考 [自定义配置，加快梯子科学上网访问速度](improve-speed-of-ladder.md)
 
 # GPT 论文
 
