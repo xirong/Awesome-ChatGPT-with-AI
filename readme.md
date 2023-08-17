@@ -45,7 +45,7 @@ ChatGPT 官网网址： https://chat.openai.com ，作为互联网人的个体�
 # GPT 论文
 
 《GPT_4，通用人工智能的火花》154页微软GPT研究报告（全中文版）
-![](_resources/GPT_4,%20Spark%20of%20General%20Artificial%20Intelligence%20154%20pages%20Microsoft%20GPT%20Research%20Report%20.pdf)
+![GPT_4_Spark_of_General_Artificial_Intelligence](_resources/GPT_4_Spark_of_General_Artificial_Intelligence_154_pages_Microsoft_GPT_Research_Report.pdf)
 
 # 向普通人解释 GPT 原理
 
