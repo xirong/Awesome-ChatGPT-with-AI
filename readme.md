@@ -40,7 +40,7 @@ ChatGPT 官网网址： https://chat.openai.com ，作为互联网人的个体�
 
 ### 加快梯子上网速度
 
-之前写过一篇文章，介绍 [What is Clash? | Clash (dreamacro.github.io)](https://dreamacro.github.io/clash/)  clash 软件如何自定义配置，加快访问速度的，经过同事们的体验，效果的确比默认要好很多，大家有需要的也可以配置下，配置方法参考 [自定义配置，加快梯子科学上网访问速度](improve-speed-of-ladder.md)
+之前写过一篇文章，介绍 [Clash](https://dreamacro.github.io/clash/)  软件如何自定义配置，加快访问速度的，经过同事们的体验，效果的确比默认要好很多，大家有需要的也可以配置下，配置方法参考 [自定义配置，加快梯子科学上网访问速度](improve-speed-of-ladder.md)
 
 # GPT 论文
 
