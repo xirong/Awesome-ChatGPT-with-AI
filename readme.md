@@ -28,7 +28,7 @@
 ChatGPT 官网网址： https://chat.openai.com ，作为互联网人的个体，自己去解决科学上网、海外手机号的问题，这类文章网上一搜一大把，留心点，开通 账号不是问题。
 
 其他备选工具：
-- Claude2 效果比 chatGPT 要好，比 GPT-4 要差，但对于普通用户来说，注册及其简单，美国/英国网络地址，输入邮箱即可使用。 官网地址： https://claude.ai  ，Claude2 的能力可以参考这篇文章[重磅！Claude vs GPT-4：14.5亿美元投资背后的AI大战，个人免费，数据已到2023年！ (qq.com)](https://mp.weixin.qq.com/s/DSVEXAJ_K9z6fwQpcGLsjg)
+- Claude2 效果比 chatGPT 要好，比 GPT-4 要差，但对于普通用户来说，注册及其简单，美国/英国网络地址，输入邮箱即可使用。 官网地址： https://claude.ai  ，Claude2 的能力可以参考这篇文章 [体感比 chatGPT 效果好的免费工具 Claude2](claude2.md)
 - New bing ，GPT-4 能力加持下的新一代搜索引擎，专注于搜索，能搜到最新的新闻资讯。官网地址： https://www.bing.com ，显示不出来的，把地址更换到美国，使用美国梯子。
 - Google Bard ，相比前面的 chatGPT、Claude2、New bing，个人感觉效果最差的一个，好在免费，要给 Google 账号既可以试用，注意美国梯子。 官网地址： https://bard.google.com/
 - 编程类：Github copilot ，进化非常快，辅助编程的日常工作的确能带来效率提升。 官网地址： https://github.com/features/copilot

@@ -1,3 +1,5 @@
+没有GPT4试试这个工具，体感比ChatGPT要好些 
+
 Claude2 网站：[https://claude.ai/](https://claude.ai/chats)
 
 >Introducing Claude 2! Our latest model has improved performance in coding, math and reasoning. It can produce longer responses, and is available in a new public-facing beta website at [http://claude.ai](https://t.co/uLbS2JNczH) in the US and UK.
