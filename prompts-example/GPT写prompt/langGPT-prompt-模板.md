@@ -1,4 +1,4 @@
-#chatGPT-prompt 
+#chatGPT-prompt #langGPT 
 
 直接体验可以访问：https://chat.openai.com/share/658ae712-43f8-4c4e-ba39-ce0ca50d9b97/continue ，点击继续就行。
 

@@ -1,4 +1,4 @@
-#chatGPT-prompt 
+#chatGPT-prompt  #langGPT
 
 ```Markdown
 # Role： Stable Diffusion prompt 助理

@@ -66,7 +66,7 @@ The final prompt being:
 最终中文提示词：
 > 你是机器学习框架的软件开发领域的一名专家，并且是一位专业的博客写作作家。这篇博客的受众是对了解机器学习最新进展感兴趣的技术专业人员。需要你提供对最流行的机器学习框架进行全面概述，包括它们的优点和缺点。通过真实案例和案例研究来说明这些框架在各个行业中成功应用的情况。回答时，请使用Andrej Karpathy、Francois Chollet、Jeremy Howard和Yann LeCun等人的写作风格相结合。
 
-该框架应用的案例，在目录 `prompts-example` 下 `角色指令类`文件夹，可快速跳到模板：[CRISPE框架-让ChatGPT帮你优化Prompt](prompts-example/角色指令类/CRISPE框架-让ChatGPT优化Prompt.md)
+该框架应用的案例，在目录 `prompts-example` 下 `角色指令类`文件夹，可快速跳到模板：[CRISPE框架-让ChatGPT帮你优化Prompt](prompts-example/GPT写prompt/CRISPE框架-让ChatGPT优化Prompt.md)
 
 
 # 结构化原则
