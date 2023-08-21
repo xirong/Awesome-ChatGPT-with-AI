@@ -55,17 +55,17 @@ ChatGPT 官网网址： https://chat.openai.com ，作为互联网人的个体�
 # GPT 深度解读文章
 
 《GPT_4，通用人工智能的火花》154页微软GPT研究报告（全中文版）
-![GPT_4_Spark_of_General_Artificial_Intelligence](_resources/GPT_4_Spark_of_General_Artificial_Intelligence_154_pages_Microsoft_GPT_Research_Report.pdf)
+![GPT_4_Spark_of_General_Artificial_Intelligence](attachment/GPT_4_Spark_of_General_Artificial_Intelligence_154_pages_Microsoft_GPT_Research_Report.pdf)
 
 
 # GPT 学习课程
 
-![|500](_resources/Pasted%20image%2020230811102958.png)
+![|500](attachment/Pasted%20image%2020230811102958.png)
 
 [吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》 (github.com)](https://github.com/datawhalechina/prompt-engineering-for-developers)
 
 这个课程内容质量非常高，推荐都去看看，已经翻译成中文了，方便阅读。
-![|500](_resources/program-deeplearning.png)
+![|500](attachment/program-deeplearning.png)
 
 # 写好提示词
 
@@ -79,11 +79,11 @@ ChatGPT 官网网址： https://chat.openai.com ，作为互联网人的个体�
 > 对于现阶段来说，LLM 是一个 Copilot。它不会不改变软件工程的专业分工，但增强每个专业技术，基于AI的研发工具平台辅助工程师完成任务，影响个体工作。
 > thoutworks - Phodal
 
-![](_resources/Pasted%20image%2020230814213942.png)
+![](attachment/Pasted%20image%2020230814213942.png)
 
 # 大模型目前的局限性
 
-![](../_resources/Pasted%20image%2020230819175132.png)
+![](attachment/Pasted%20image%2020230819175132.png)
 
 大模型目前无法取代工程师
-![](../_resources/Pasted%20image%2020230819175346.png)
+![](attachment/Pasted%20image%2020230819175346.png)

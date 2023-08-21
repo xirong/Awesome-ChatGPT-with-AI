@@ -36,7 +36,7 @@ todo: 这里可以找找翻译的好的中文资料
 
 而基于角色的，在 3-5 月份网络上非常火爆的 prompt 撰写方案，效果比普通的的确要好，用一张图来解读就是如下：
 
-![mmexport1691165652563|400](_resources/mmexport1691165652563.jpg)
+![mmexport1691165652563|400](attachment/mmexport1691165652563.jpg)
 
 
 起源来自国外的一个哥们的这篇文章[CRISPE 框架介绍)](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List#creating-chatgpt-prompts-a-framework) 是个非常火的框架，国内很多抽象出来的定义身份、指令、动作的模板最初都来自这个，读一读该原版理解会更深入，简单翻译成中文，核心内容如下：
@@ -77,10 +77,10 @@ The final prompt being:
 
 |  **学历** | **课程**  |
 |---|---|
-|高中水平| ![highschool\|200](_resources/highscrool.jpg)|
-|大学水平| ![Undergraduate\|200](_resources/undersch.jpg)|
-|研究生| ![Master\|200](_resources/Master.jpg)|
-|博士|![phd\|200](_resources/phd.jpg) |
+|高中水平| ![highschool\|200](attachment/highscrool.jpg)|
+|大学水平| ![Undergraduate\|200](attachment/undersch.jpg)|
+|研究生| ![Master\|200](attachment/Master.jpg)|
+|博士|![phd\|200](attachment/phd.jpg) |
 
 想自己体验的可以直接点击这个[Ranedeer ChatGPT分享链接](https://chat.openai.com/share/53b38605-68e5-4922-81fe-e4588fb28d8a)，点击继续对话就能体验。
 
