@@ -1,0 +1,1 @@
+![|400](../attachment/1person-company.jpeg)

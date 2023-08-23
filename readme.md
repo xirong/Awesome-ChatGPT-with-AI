@@ -107,4 +107,7 @@ ChatGPT 官网网址： https://chat.openai.com ，作为互联网人的个体�
 
 ![|500](attachment/Pasted%20image%2020230814213942.png)
 
-对工程师的影响：
+
+[AI 大模型不是造富神话，但会让每个岗位都变化（上） ](https://mp.weixin.qq.com/s/geBtowZ-W9h77nsovmlNmg) 作者认为，想通过 AI 大模型创业财富自由，成为大平台，基本上没戏。但是做为个体小作坊，小型公司机会还是很多的，这需要每个人的思维升级。已 chatALL 为例，作者10 几年脱离一线没写代码，而且不会前端，1 个月时间做出来这块 Github 9k star的产品。
+
+对于创业来说，已经看到有人创建 1 人公司，团队人员全是 AI-bot ，例如这个 “博派 AI” [start-up-bopai-AI](Information/start-up-bopai-AI.md)
