@@ -31,7 +31,7 @@
 
 [比尔盖茨：人工智能时代已经开始 | 盖茨笔记 ](https://mp.weixin.qq.com/s/pYjY_LT8I33YqCn415AUAA)
 
-[值得听的7个AI播客节目](AI-podcast.md)，这个非常推荐，通勤路上可以听听，都是大佬的思想，很有启发性。
+[值得听的7个AI播客节目](Information/AI-podcast.md)，这个非常推荐，通勤路上可以听听，都是大佬的思想，很有启发性。
 
 
 # GPT 工具
@@ -67,6 +67,8 @@ ChatGPT 官网网址： https://chat.openai.com ，作为互联网人的个体�
 
 [独家 | 解析Tansformer模型—理解GPT-3, BERT和T5背后的模型（附链接） (qq.com)](https://mp.weixin.qq.com/s/kfsW7ccYUAGp1AHWWF6c1w) 你知道这句话吗，当你有一把锤子的时候，所有东西看起来都像钉子? 在机器学习中，我们似乎真的发现了一种神奇的锤子。实际上，在这个模型面前所有东西都是钉子，这就是Transformer模型。
 
+为什么尽量用英文写 prompt ？这篇文章给你答案。[AI如何通过“切割术”理解我们的语言：探索大语言模型时代的语言不平等问题](https://mp.weixin.qq.com/s/wDQ9o-3hnDcmWVMj6WdO2Q)
+
 # GPT 深度解读文章
 
 《GPT_4，通用人工智能的火花》154页微软GPT研究报告（全中文版）
@@ -75,12 +77,15 @@ ChatGPT 官网网址： https://chat.openai.com ，作为互联网人的个体�
 
 # GPT 学习课程
 
+## 吴恩达联合 OpenAI 课程
 ![|500](attachment/Pasted%20image%2020230811102958.png)
 
-[吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》 (github.com)](https://github.com/datawhalechina/prompt-engineering-for-developers)
+这个课程内容质量非常高，推荐都去看看，已经翻译成中文了，方便阅读。 [吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》 (github.com)](https://github.com/datawhalechina/prompt-engineering-for-developers)
 
-这个课程内容质量非常高，推荐都去看看，已经翻译成中文了，方便阅读。
 ![|500](attachment/program-deeplearning.png)
+
+## 其他
+[Welcome to LLM University! (cohere.com)](https://docs.cohere.com/docs/llmu)
 
 # 写好提示词
 
