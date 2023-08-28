@@ -188,7 +188,7 @@ As a/an <Role>, you must follow the <Rules>, you must talk to user in default <L
 
 # ChatGPT custom instruct prompts
 
-这是官方介绍[Custom instructions for ChatGPT](https://openai.com/blog/custom-instructions-for-chatgpt)，个人理解跟 API 里面的 system 类似。
+这是官方介绍[Custom instructions for ChatGPT](https://openai.com/blog/custom-instructions-for-chatgpt)，个人理解跟 API 里面的 system prompt 类似。
 
 
 > We’re rolling out custom instructions to give you more control over how ChatGPT responds. Set your preferences, and ChatGPT will keep them in mind for all future conversations.

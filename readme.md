@@ -33,6 +33,10 @@
 
 [值得听的7个AI播客节目](Information/AI-podcast.md)，这个非常推荐，通勤路上可以听听，都是大佬的思想，很有启发性。
 
+[Nvidia H100 GPU 供需现状：43 万张 H100，Nvidia 将如何分配？ (qq.com)](https://mp.weixin.qq.com/s/ClWZVfHLwzHZg8uhfwLHvA)
+
+去[news 频道](Information/news.md)查看更多最新 AI 资讯内容。
+
 
 # GPT 工具
 
@@ -63,9 +67,9 @@ ChatGPT 官网网址： https://chat.openai.com ，作为互联网人的个体�
 
 [通俗解构语言大模型的工作原理](https://mp.weixin.qq.com/s/PPXaOrLnIV6JlXvgYB74Wg) 这里面文字白话介绍词向量、词预测、以及Transformer架构原理，整篇文章篇幅很短，适合粗略的阅读看看，里面说的 transformer 架构可以看这个小视频，更加形象的理解 https://m.okjike.com/originalPosts/64be4d567b5daee543aba806
 
-[ChatGPT 中，G、P、T 分别是什么意思？ (qq.com)](https://mp.weixin.qq.com/s/vXoYeA7w6l_WiKmDHogdTA)
+[ChatGPT 中，G、P、T 分别是什么意思？ ](https://mp.weixin.qq.com/s/vXoYeA7w6l_WiKmDHogdTA)
 
-[独家 | 解析Tansformer模型—理解GPT-3, BERT和T5背后的模型（附链接） (qq.com)](https://mp.weixin.qq.com/s/kfsW7ccYUAGp1AHWWF6c1w) 你知道这句话吗，当你有一把锤子的时候，所有东西看起来都像钉子? 在机器学习中，我们似乎真的发现了一种神奇的锤子。实际上，在这个模型面前所有东西都是钉子，这就是Transformer模型。
+[独家 | 解析Tansformer模型—理解GPT-3, BERT和T5背后的模型](https://mp.weixin.qq.com/s/kfsW7ccYUAGp1AHWWF6c1w) 你知道这句话吗，当你有一把锤子的时候，所有东西看起来都像钉子? 在机器学习中，我们似乎真的发现了一种神奇的锤子。实际上，在这个模型面前所有东西都是钉子，这就是Transformer模型。
 
 为什么尽量用英文写 prompt ？这篇文章给你答案。[AI如何通过“切割术”理解我们的语言：探索大语言模型时代的语言不平等问题](https://mp.weixin.qq.com/s/wDQ9o-3hnDcmWVMj6WdO2Q)
 
@@ -115,4 +119,4 @@ ChatGPT 官网网址： https://chat.openai.com ，作为互联网人的个体�
 
 [AI 大模型不是造富神话，但会让每个岗位都变化（上） ](https://mp.weixin.qq.com/s/geBtowZ-W9h77nsovmlNmg) 作者认为，想通过 AI 大模型创业财富自由，成为大平台，基本上没戏。但是做为个体小作坊，小型公司机会还是很多的，这需要每个人的思维升级。已 chatALL 为例，作者10 几年脱离一线没写代码，而且不会前端，1 个月时间做出来这块 Github 9k star的产品。
 
-对于创业来说，已经看到有人创建 1 人公司，团队人员全是 AI-bot ，例如这个 “博派 AI” [start-up-bopai-AI](Information/start-up-bopai-AI.md)
+对于创业来说，已经看到有人创建 1 人公司，团队人员全是 AI-bot ，例如这个 “博派 AI” [opportunity-news](Information/opportunity-news.md)
