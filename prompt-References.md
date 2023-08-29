@@ -4,3 +4,5 @@
 [langGPT-云中江叔 - ⭐AI Prompt 专研 - 飞书云文档](https://aq92z6vors3.feishu.cn/wiki/RXdbwRyASiShtDky381ciwFEnpe) 有一些prompt 在 flowGPT 上面进行了分享，连接地址[ChatGPT prompts for Prompts 精选合集 | prompt collection |FlowGPT](https://flowgpt.com/collections/1BtPeHx7qaEXlG3xrGiCn)
 
 [‌刘海文档-﻿⁡⁢⁣‬‍​​⁤⁤⁣⁡​​﻿​‌​⁤‌​⁢﻿⁣‬‍⁤‬⁡​‌​‌​⁡⁡⁢⁤​​⁢‬‬‬‬⁢​‬⁣「AI 提示词工程师」の 见解和经验分享-飞书云文档](https://nanfangshaonian.feishu.cn/wiki/CkIowVcTjiL3EdkJjzzcaeJPnfh)
+
+[‍‌​​‍﻿​​⁤⁤‬‌‬‬‬‍‍‌﻿⁡‬​⁡​​⁡​​﻿⁢⁡‬‍⁣‍‬‬⁣‍‌⁣‌﻿⁤⁡‬​⁣‌🐴 Martin's Wiki -  马丁的面包屑- 飞书云文档 (feishu.cn)](https://whjlnspmd6.feishu.cn/wiki/VJ6JwGdz1iGF0Fk5g1TcjkVonFe) 一个all in ai 的产品经理，在大模型创业。
