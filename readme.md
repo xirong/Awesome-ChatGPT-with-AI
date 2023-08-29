@@ -65,19 +65,33 @@ ChatGPT 官网网址： https://chat.openai.com ，作为互联网人的个体�
 
 # 向普通人解释 GPT 原理
 
+![](attachment/1693287846524.jpg)
+OpenAI 的联合创始人Andrej Karpthy 在2023 微软开发者大会上的演讲 PPT，非常重磅，详细讲述了 GPT 的训练过程。个人感觉，把这篇视频看 10 遍，基本上就知道 ChatGPT 怎么训练出来的，有哪些缺陷，以及有哪些应用场景了。
+
+> 在这个朴实无华的题目之下，Andrej带来的是一场超级精彩的分享。 他详细介绍了如何从GPT基础模型一直训练出ChatGPT这样的助手模型（assistant model）。作者不曾在其他公开视频里看过类似的内容，这或许是OpenAI官方第一次详细阐述其大模型内部原理和RLHF训练细节。 
+> 难能可贵的是，Andrej不仅深入了细节， 还高屋建瓴的抽象了大模型实现中的诸多概念，牛人的洞察就是不一样。 比如，Andrej非常形象的把当前LLM大语言模型比喻为人类思考模式的系统一（快系统），这是相对于反应慢但具有更长线推理的系统二（慢系统）而言。这只是演讲里诸多闪光点的其中一个。
+> Andrej真的有当导师的潜力，把非常技术的内容讲得深入浅出，而又异常透彻。这个演讲完全可以让非专业人士也能理解，并且，认真看完演讲后会有一种醍醐灌顶的感觉。
+
+视频地址，微软官方英文原版[State of GPT | Microsoft developers](https://www.youtube.com/watch?v=bZQun8Y4L2A)可以配合字幕使用，也可以直接看网友翻译后的中文版本 [State of GPT（GPT的现状）中文字幕精校版 | Andrej Karpathy 微软Build大会精彩演讲 | GPT状态和原理 | 解密OpenAI模型训练 - YouTube](https://www.youtube.com/watch?v=b8WIHOcp9ck)
+有中文的总结文章参考：[精华笔记：微软 Build 2023 开发者大会专题演讲：State of GPT（GPT 的现状） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/634545092)
+原版英文 PPT 如下，
+![State of GPT](attachment/stateofgpt.pdf)，
+
+
 [通俗解构语言大模型的工作原理](https://mp.weixin.qq.com/s/PPXaOrLnIV6JlXvgYB74Wg) 这里面文字白话介绍词向量、词预测、以及Transformer架构原理，整篇文章篇幅很短，适合粗略的阅读看看，里面说的 transformer 架构可以看这个小视频，更加形象的理解 https://m.okjike.com/originalPosts/64be4d567b5daee543aba806
 
 [ChatGPT 中，G、P、T 分别是什么意思？ ](https://mp.weixin.qq.com/s/vXoYeA7w6l_WiKmDHogdTA)
 
-[独家 | 解析Tansformer模型—理解GPT-3, BERT和T5背后的模型](https://mp.weixin.qq.com/s/kfsW7ccYUAGp1AHWWF6c1w) 你知道这句话吗，当你有一把锤子的时候，所有东西看起来都像钉子? 在机器学习中，我们似乎真的发现了一种神奇的锤子。实际上，在这个模型面前所有东西都是钉子，这就是Transformer模型。
+[独家 | 解析Tansformer模型—理解GPT-3, BERT和T5背后的模型](https://mp.weixin.qq.com/s/kfsW7ccYUAGp1AHWWF6c1w)  你知道这句话吗，当你有一把锤子的时候，所有东西看起来都像钉子? 在机器学习中，我们似乎真的发现了一种神奇的锤子。实际上，在这个模型面前所有东西都是钉子，这就是Transformer模型。
 
 为什么尽量用英文写 prompt ？这篇文章给你答案。[AI如何通过“切割术”理解我们的语言：探索大语言模型时代的语言不平等问题](https://mp.weixin.qq.com/s/wDQ9o-3hnDcmWVMj6WdO2Q)
 
-# GPT 深度解读文章
 
 《GPT_4，通用人工智能的火花》154页微软GPT研究报告（全中文版）
 ![GPT_4_Spark_of_General_Artificial_Intelligence](attachment/GPT_4_Spark_of_General_Artificial_Intelligence_154_pages_Microsoft_GPT_Research_Report.pdf)
 
+
+![](attachment/State%20of%20LLM_拾象硅谷调研_0629.pdf)
 
 # GPT 学习课程
 
