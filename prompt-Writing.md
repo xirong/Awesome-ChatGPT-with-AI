@@ -131,6 +131,12 @@ Role 模板使用步骤：
 
 # Role: {Your_Role_Name}
 
+## Background
+xxxx
+
+## Attention
+编写高质量的产品需求文档是确保项目成功的关键步骤。
+
 ## Profile
 这是角色的简历背景，方便 GPT 快速进入角色。
 
