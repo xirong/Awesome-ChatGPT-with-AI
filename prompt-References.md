@@ -6,3 +6,5 @@
 [‌刘海文档-﻿⁡⁢⁣‬‍​​⁤⁤⁣⁡​​﻿​‌​⁤‌​⁢﻿⁣‬‍⁤‬⁡​‌​‌​⁡⁡⁢⁤​​⁢‬‬‬‬⁢​‬⁣「AI 提示词工程师」の 见解和经验分享-飞书云文档](https://nanfangshaonian.feishu.cn/wiki/CkIowVcTjiL3EdkJjzzcaeJPnfh)
 
 [‍‌​​‍﻿​​⁤⁤‬‌‬‬‬‍‍‌﻿⁡‬​⁡​​⁡​​﻿⁢⁡‬‍⁣‍‬‬⁣‍‌⁣‌﻿⁤⁡‬​⁣‌🐴 Martin's Wiki -  马丁的面包屑- 飞书云文档 (feishu.cn)](https://whjlnspmd6.feishu.cn/wiki/VJ6JwGdz1iGF0Fk5g1TcjkVonFe) 一个all in ai 的产品经理，在大模型创业。
+
+[‌﻿​‌﻿‍‬‌⁤⁡⁣⁣​​⁤⁤‍﻿﻿‍‍‬⁤⁤​⁡⁤﻿⁤​‬‬‌‍⁤⁡⁤⁢﻿⁤​⁢‍⁤‬⁣⁢⁢‍‌Darknet Knowledge Base - 飞书云文档 (feishu.cn)](https://wk5u55sc2e.feishu.cn/docx/U9jpdC8Tho3pJgxbKWMcVh3TnL0)
