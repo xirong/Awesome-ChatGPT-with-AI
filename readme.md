@@ -90,7 +90,7 @@ OpenAI 的联合创始人Andrej Karpthy 在2023 微软开发者大会上的演�
 ![GPT_4_Spark_of_General_Artificial_Intelligence](attachment/GPT_4_Spark_of_General_Artificial_Intelligence_154_pages_Microsoft_GPT_Research_Report.pdf)
 
 
-![](attachment/State%20of%20LLM_拾象硅谷调研_0629.pdf)
+![State_of_LLM_拾象硅谷调研_0629](attachment/State%20of%20LLM_拾象硅谷调研_0629.pdf)
 
 
 ## 其他文章
