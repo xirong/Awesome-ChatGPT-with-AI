@@ -81,3 +81,51 @@ Azure账号申请完后，默认是不支持 OpenAI 服务的，需要申请�
 申请完了会有邮件通知，等待加入：
 
 ![|500](attachment/Pasted%20image%2020230817213159.png)
+
+剩下的就是等待期，可能几天，也可能很快。
+
+尤其是现在，openAI 全面开放了 gpt-4 的付费申请，尤其是现在，openAI 全面开放了 gpt-4 的付费申请，申请后被接受的速度快多了。
+
+微软云同样，价钱一样，不用翻墙，国内卡付费就行了。自己折算下，大概 1 元人民币 2000 个汉字左右，包括输入和输出的 token，这个明显要比 chatgpt 3.5 贵多了，gpt-3.5 的版本 1 元人民币大概能 3.5w 个汉字。
+
+![](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/Mp7ldGepEGavOBQN/img/ed6845b1-9f75-448f-b77f-d7e7f9510a3d.png)
+
+回到控制台，看到有了 gpt-4 的模型：
+
+![](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/Mp7ldGepEGavOBQN/img/f5330103-7b14-4f67-9a27-2529bdb1ca63.png)
+
+下一步，去创建部署，如下图，点击左侧部署-弹出的页面中，新建部署，选择参数。
+
+![](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/Mp7ldGepEGavOBQN/img/07a2f48c-e32f-4b05-9690-aa311bc0a3b7.png)
+
+等一会，就显示创建成功了。
+
+![](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/Mp7ldGepEGavOBQN/img/edc33323-d434-40ba-88c0-1aabe5ee40ff.png)
+
+之后转到  在操场中打开，就能在 Playgroud 聊天了
+
+![](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/Mp7ldGepEGavOBQN/img/4eeb7154-844e-495f-9b48-d434b856991c.png)
+
+好了，我们平日工作中使用，毕竟不在这里面，下面看怎么结合 IDEA 编辑器来使用 Azure 的 gpt4 模型。
+
+先下载这个 ChatGPT 插件，这个是支持 Azure 的地址的，其他的我没有找到合适支持 Azure 的。
+
+![](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/Mp7ldGepEGavOBQN/img/b4f6a326-d4d0-4eee-849d-436310722c86.png)
+
+![](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/Mp7ldGepEGavOBQN/img/c368bebb-f65e-4303-8191-7b59d82e642b.png)
+
+配置好后，就可以用了，这个是 3.5 效果。
+
+![](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/Mp7ldGepEGavOBQN/img/82b4345f-6983-4d14-a745-b6292f1bc51c.png)
+
+同样一段代码，这个是 gpt4 的效果
+
+![](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/Mp7ldGepEGavOBQN/img/4bb52873-ae18-48b7-b1f1-1ea4fe14aaba.png)
+
+好了，到此为止，就可以在 IEDA 开发环境下，利用 微软 Azure ChatGPT（3.5）和 gpt-4.0 来进行辅助开发工作了 。
+
+微软Azure云提供的 OpenAI 服务相对于 OpenAI 官网api 调用来说：
+
+优点：速度快，无需翻墙，大陆手机号直接注册，新注册的用户可以免费使用 1 个月（或者 使用费用200 刀），GPT-4 也可以免费。后续需要付费的时候，直接使用国内银联卡即可，无需美国卡。
+
+缺点：版本更新不及时，不如 OpenAI 官网的版本新。 目前 9.4 号可以用的 3.5 和 4.0 都是2023-07-01-preview的版本。另外，OpenAI 每个月都有 5 刀的免费额度，也就是每个月你的用量费用超不过 5 刀时，都是免费的白嫖的。
