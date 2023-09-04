@@ -60,7 +60,8 @@ ChatGPT 官网网址： https://chat.openai.com ，作为互联网人的个体�
 
 ### 加快梯子上网速度
 
-之前写过一篇文章，介绍 [Clash](https://dreamacro.github.io/clash/)  软件如何自定义配置，加快访问速度的，经过同事们的体验，效果的确比默认要好很多，大家有需要的也可以配置下，配置方法参考 [自定义配置，加快梯子科学上网访问速度](improve-speed-of-ladder.md)
+之前写过一篇文章，介绍 [Clash](https://dreamacro.github.io/clash/)  软件如何自定义配置，加快访问速度的，因为默认的规则有几万条，在几万条规则里面路由，也是需要耗时的，自定义调整后，去掉不用的，每个人可能也就几十条
+经过同事们的体验，效果的确比默认要好很多，大家有需要的也可以配置下，配置方法参考 [自定义配置，加快梯子科学上网访问速度](improve-speed-of-ladder.md)
 
 
 # 向普通人解释 GPT 原理
@@ -79,6 +80,21 @@ OpenAI 的联合创始人Andrej Karpthy 在2023 微软开发者大会上的演�
 - 视频中原版英文 PPT 如下 ![State of GPT](attachment/stateofgpt.pdf)，
 
 
+## 官方论文解读
+[GPT-4论文精读【论文精读·53】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1vM4y1U7b5/?vd_source=c35465296cfe1fefc212d3431eef636b)
+
+于此同时，推荐 B 站的专栏 [跟李沐学AI](https://space.bilibili.com/1567748478)，这里面有很多读论文的资料，论文是了解细节的最好的手段，最重要的是，你无需科班出身也能听懂，真正的普通人也可以听懂的论文拆解，非常好。
+
+
+《GPT_4，通用人工智能的火花》154页微软GPT研究报告（全中文版）
+![GPT_4_Spark_of_General_Artificial_Intelligence](attachment/GPT_4_Spark_of_General_Artificial_Intelligence_154_pages_Microsoft_GPT_Research_Report.pdf)
+
+
+![](attachment/State%20of%20LLM_拾象硅谷调研_0629.pdf)
+
+
+## 其他文章
+
 [ChatGPT 中，G、P、T 分别是什么意思？ ](https://mp.weixin.qq.com/s/vXoYeA7w6l_WiKmDHogdTA)
 
 [通俗解构语言大模型的工作原理](https://mp.weixin.qq.com/s/PPXaOrLnIV6JlXvgYB74Wg) 这里面文字白话介绍词向量、词预测、以及Transformer架构原理，整篇文章篇幅很短，适合粗略的阅读看看，里面说的 transformer 架构可以看这个小视频，更加形象的理解 https://m.okjike.com/originalPosts/64be4d567b5daee543aba806
@@ -89,11 +105,6 @@ OpenAI 的联合创始人Andrej Karpthy 在2023 微软开发者大会上的演�
 为什么尽量用英文写 prompt ？这篇文章给你答案。[AI如何通过“切割术”理解我们的语言：探索大语言模型时代的语言不平等问题](https://mp.weixin.qq.com/s/wDQ9o-3hnDcmWVMj6WdO2Q)
 
 
-《GPT_4，通用人工智能的火花》154页微软GPT研究报告（全中文版）
-![GPT_4_Spark_of_General_Artificial_Intelligence](attachment/GPT_4_Spark_of_General_Artificial_Intelligence_154_pages_Microsoft_GPT_Research_Report.pdf)
-
-
-![](attachment/State%20of%20LLM_拾象硅谷调研_0629.pdf)
 
 # GPT 学习课程
 
