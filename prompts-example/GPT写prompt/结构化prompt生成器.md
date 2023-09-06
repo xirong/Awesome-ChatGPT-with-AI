@@ -1,3 +1,9 @@
+#chatGPT-prompt 
+
+查看[prompt编写原则](../../prompt-Writing.md)中有关于 结构化 prompt 的介绍
+
+使用方法：直接把下面 markdown 的内容复制、粘贴到 ChatGPT 对话框中，等响应完成后，输入你自己真是的想要优化的prompt，等待他的响应就可以
+
 ```Markdown
 
 # Role:Prompt工程师

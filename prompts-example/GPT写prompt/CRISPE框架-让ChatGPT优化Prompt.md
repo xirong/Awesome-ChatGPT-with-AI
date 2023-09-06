@@ -4,6 +4,8 @@
 
 下面的 prompt 是利用 ChatGPT，根据 CRISPE 框架，根据你的需求，来优化合适的prompt，效果要比自己写的好一些，当然你也可以随时优化这里面的内容。
 
+使用方法：直接把下面 markdown 的内容复制、粘贴到 ChatGPT 对话框中，等响应完成后，输入你自己真是的想要优化的prompt，等待他的响应就可以
+
 ````Markdown
 #Profile:
     author:小七姐@JackeyLiu
