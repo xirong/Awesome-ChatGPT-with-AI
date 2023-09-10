@@ -33,11 +33,11 @@
 
 [比尔盖茨：人工智能时代已经开始 | 盖茨笔记 ](https://mp.weixin.qq.com/s/pYjY_LT8I33YqCn415AUAA)
 
-[值得听的7个AI播客节目](Information/AI-podcast.md)，这个非常推荐，通勤路上可以听听，都是大佬的思想，很有启发性。
-
 [Nvidia H100 GPU 供需现状：43 万张 H100，Nvidia 将如何分配？ (qq.com)](https://mp.weixin.qq.com/s/ClWZVfHLwzHZg8uhfwLHvA)
 
-去[news 频道](Information/news.md)查看更多最新 AI 资讯内容。
+[值得听的7个AI播客节目](Information/AI-podcast.md)，这个非常推荐，通勤路上可以听听，都是大佬的思想，很有启发性。
+
+去[news 频道](Information/opportunity-news.md) 查看更多最新 AI 资讯内容。
 
 
 # GPT 工具
@@ -122,9 +122,9 @@ OpenAI 的联合创始人Andrej Karpthy 在2023 微软开发者大会上的演�
 
 # 写好提示词
 
-截止由目前有两大 prompt 撰写模型，一个是以 CRISPE 为代表的`背景-身份-指令`模型，一个是以 langGPT 为代表的`结构化prompt`模型，效果都不错，具体可以看下面。
+截止到2023.7月份，有两大 prompt 撰写模型，一个是以 CRISPE 为代表的 `背景-身份-指令` 模型，一个是以 `langGPT` 为代表的 `结构化prompt` 模型，效果都不错，具体可以看下面。
 
-这个 md 是专门写提示词的，里面介绍了什么是prompt、prompt 原则、prompt 模型、prompt 编程等概念，详细参考 [人人必备的高质量提示词撰写技巧](prompt-Writing.md)
+这个 md 是专门写提示词的，里面介绍了什么是prompt、prompt 原则、prompt 模型、prompt 编程等概念，详细参考 [AI时代，人人必备的高质量提示词撰写技巧](prompt-Writing.md)
 
 
 # 业界实践
@@ -134,6 +134,15 @@ OpenAI 的联合创始人Andrej Karpthy 在2023 微软开发者大会上的演�
 - [辅助解决日常难题](practice-cases/辅助解决日常难题.md)
 
 # 大模型目前的局限性
+
+已知的目前无法解决的问题
+- 大模型本身的幻觉问题
+- 大模型本身知识老旧问题，如数据库截止到2021年底
+- 大模型的数学推理能力弱问题 (解数学问题)
+- 大模型的视觉能力弱问题(构建 SVG 矢量图等场景)
+- 大模型字数统计问题（不论是字符数和 token 数，大模型都无法统计准确。需要输出指定字数时，将数值设定的高一些，后期自己调整一下，比如希望他输出100字文案，告诉他输出150字。）
+- 同一 Prompt 在不同模型间的性能差异问题
+- 其他已知问题等
 
 ![|500](attachment/Pasted%20image%2020230819175132.png)
 
@@ -149,6 +158,18 @@ OpenAI 的联合创始人Andrej Karpthy 在2023 微软开发者大会上的演�
 ![|500](attachment/Pasted%20image%2020230814213942.png)
 
 
-[AI 大模型不是造富神话，但会让每个岗位都变化（上） ](https://mp.weixin.qq.com/s/geBtowZ-W9h77nsovmlNmg) 作者认为，想通过 AI 大模型创业财富自由，成为大平台，基本上没戏。但是做为个体小作坊，小型公司机会还是很多的，这需要每个人的思维升级。已 chatALL 为例，作者10 几年脱离一线没写代码，而且不会前端，1 个月时间做出来这块 Github 9k star的产品。
+[‍‌​⁢‍⁢⁤⁡﻿⁡⁡⁡⁤‌⁡﻿‍⁣‬﻿​⁢⁡‍⁤⁣⁣‍​⁤‍⁤​⁤⁤​⁡‬‌‍⁣‍⁤⁢⁤‌‌‍⁡‍2023.08.15_大模型赛道的技术和应用分析（残缺） - 飞书云文档 (feishu.cn)](https://whjlnspmd6.feishu.cn/wiki/DBnWwik1piTB6Iki02CcXoVQn3S)
 
-对于创业来说，已经看到有人创建 1 人公司，团队人员全是 AI-bot ，例如这个 “博派 AI” [opportunity-news](Information/opportunity-news.md)
+[2023.8.14 对话杨植麟：Moonshot AI即将完成超10亿元融资，公司最终目标并非超越OpenAI (qq.com)](https://mp.weixin.qq.com/s/mvBzhNmM-skPmxrXIpxUlQ) 
+
+
+[2023.7.26 关于AIGC产品战略的思考 (qq.com)](https://mp.weixin.qq.com/s/9EZqEGV0eTteQhUrF-K7uA)
+
+[2023.7.4 AI 大模型不是造富神话，但会让每个岗位都变化（上） ](https://mp.weixin.qq.com/s/geBtowZ-W9h77nsovmlNmg) 作者认为，想通过 AI 大模型创业财富自由，成为大平台，基本上没戏。但是做为个体小作坊，小型公司机会还是很多的，这需要每个人的思维升级。已 chatALL 为例，作者10 几年脱离一线没写代码，而且不会前端，1 个月时间做出来这块 Github 9k star的产品。
+
+
+对于创业来说，已经看到有人创建 1 人公司，团队人员全是 AI-bot ，例如这个 “博派 AI”  ，如下图。
+![|400](attachment/1person-company.jpeg)
+
+
+更多创业、创新、在业界的应用场景，参考：[大模型应用机会案例](Information/opportunity-news.md)
