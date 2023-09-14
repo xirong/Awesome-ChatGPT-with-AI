@@ -302,9 +302,31 @@ You are a senior software engineer or architect with years of experience in Java
 
 # 高质量prompt文章
 
+```markdown
+Prompt 的本质：通过 **明确的指引** 来促使 LLM 生成高质量内容。
+
+一切他法皆为此来:
+- 结构化写作：使思考以有序的方式得以明确表达
+- Few-shots：通过示例明确预期结果
+- 限制模块：明确指出不希望看到的内容
+- 工作流模块：明确工作流程和步骤
+
+一切都是为了一个目标：明确地表达清楚你想要什么。
+
+诸如 CoT、ToT、GoT、AoT 等高级技巧，虽然引人注目，却只是模型操作的额外工具。
+
+- let's think step by step
+- Let's work this out in a step by step way to be sure we have the right answer.
+- 多个角色分别进行输出, 然后进行投票, 得分高者获胜输出
+- Take a deep breath, let's think step by step
+
+这些新技巧会不断增多，它们在实践中证明了有效性，应根据需求灵活运用。
+然而，Prompt 的核心依旧是 **明确的指引** 。高级技巧可以作为加分项，但不属于 Prompt 的本质范畴。
+```
+
 [2023.9.9 大模型靠“深呼吸”数学再涨8分！谷歌DeepMind发现AI自己设计提示词效果胜人类 (qq.com)](https://mp.weixin.qq.com/s/2kpqttXPIQJ5d3tNNHA08Q)  谷歌DeepMind团队最新发现，用这个新“咒语”（Take a deep breath）结合大家已经熟悉的 **“一步一步地想”**（Let’s think step by step），大模型在GSM8K数据集上的成绩就从 71.8 提高到 80.2 分。
 
-此前在GPT系列上的AI设计出的最优提示词是“Let’s work this out in a step by step way to be sure we have the right answer.”
+此前在GPT系列上的AI设计出的最优提示词是 “Let’s work this out in a step by step way to be sure we have the right answer.”
 
 >  Take a deep breath and Let’s work this out in a step by step way to be sure we have the right answer.
 

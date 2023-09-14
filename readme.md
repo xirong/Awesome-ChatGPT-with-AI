@@ -108,7 +108,7 @@ OpenAI 的联合创始人Andrej Karpthy 在2023 微软开发者大会上的演�
 
 
 
-# GPT 学习课程
+# 学习课程
 
 ## 吴恩达联合 OpenAI 课程
 ![|500](attachment/Pasted%20image%2020230811102958.png)
@@ -116,6 +116,10 @@ OpenAI 的联合创始人Andrej Karpthy 在2023 微软开发者大会上的演�
 这个课程内容质量非常高，推荐都去看看，已经翻译成中文了，方便阅读。 [吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》 (github.com)](https://github.com/datawhalechina/prompt-engineering-for-developers)
 
 ![|500](attachment/program-deeplearning.png)
+
+## 微软 AI for Beginner
+![](../_resources/Pasted%20image%2020230914172012.png)
+[microsoft/AI-For-Beginners: 12 Weeks, 24 Lessons, AI for All! (github.com)](https://github.com/microsoft/AI-For-Beginners) 
 
 ## 其他
 [Welcome to LLM University! (cohere.com)](https://docs.cohere.com/docs/llmu)
@@ -135,8 +139,10 @@ OpenAI 的联合创始人Andrej Karpthy 在2023 微软开发者大会上的演�
 
 # 大模型目前的局限性
 
+![大模型幻觉](attachment/Pasted%20image%2020230914134213.png)
+
 已知的目前无法解决的问题
-- 大模型本身的幻觉问题
+- 大模型本身的幻觉问题，参考上图
 - 大模型本身知识老旧问题，如数据库截止到2021年底
 - 大模型的数学推理能力弱问题 (解数学问题)
 - 大模型的视觉能力弱问题(构建 SVG 矢量图等场景)
