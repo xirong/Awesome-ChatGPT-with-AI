@@ -117,12 +117,16 @@ OpenAI 的联合创始人Andrej Karpthy 在2023 微软开发者大会上的演�
 
 ![|500](attachment/program-deeplearning.png)
 
+
 ## 微软 AI for Beginner
 ![](../_resources/Pasted%20image%2020230914172012.png)
 [microsoft/AI-For-Beginners: 12 Weeks, 24 Lessons, AI for All! (github.com)](https://github.com/microsoft/AI-For-Beginners) 
 
-## 其他
+## 其它
 [Welcome to LLM University! (cohere.com)](https://docs.cohere.com/docs/llmu)
+
+跟着李沐学AI，里面有很多论文解读，自己看英文以及没有科班背景，听他讲解，效果非常好。B站[跟李沐学AI的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/1567748478) 或者 YouTube [Mu Li - YouTube](https://www.youtube.com/@mu_li)
+
 
 # 写好提示词
 
