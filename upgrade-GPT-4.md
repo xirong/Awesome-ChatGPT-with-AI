@@ -20,17 +20,18 @@
 
 ![|500](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/Mp7ldGepEGavOBQN/img/ec6e627e-e186-4ce0-aa01-e59f4978bec7.png)   ![](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/Mp7ldGepEGavOBQN/img/ac921378-5a75-4e42-aaa6-7cbd84271f38.png)
 
-这个的好处就是整个操作体验非常流畅，开卡需要实名认证，防止卡被乱用，后面被风控，实名用支付宝扫人脸即可。
+这个的好处就是整个操作体验非常流畅，开卡需要实名认证，防止卡被乱用，后面被风控，实名用支付宝扫人脸即可。如果没有海外手机号的，他们提供免费海外手机号，可以进行注册OpenAI账号。
+![|400](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/Mp7ldGepEGavOBQN/img/98e40e61-3fc4-4b8b-820a-251f96285dec.png)
 
-充值直接支付宝充值，也可以采用scripe 绑定微信支付充值，直接付款人民币。开卡费最近涨了，15,9$ ，防止黑灰产借用，造成后面卡段被封无法使用。
+充值直接支付宝充值，银联云闪付充值，也可以采用scripe绑定微信支付充值，直接付款人民币。开卡费最近涨了，15,9$ ，防止黑灰产借用，造成后面卡段被封无法使用，这个个人表示理解。
 
-付费 OpenAI时，对网络要求非常严格，他们提供了美国家庭网络远程桌面，在他们的桌面里面操作成功率基本上 95%以上。
+付费 OpenAI时，对网络要求非常严格，他们提供了美国家庭网络远程桌面，在他们的桌面里面操作成功率基本上 99%以上。
 
 ![|500](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/Mp7ldGepEGavOBQN/img/6911f3f2-5f33-43e1-ae64-aa92223eb17d.png)
 
 开卡可以直接官网注册账号、实名认证、开卡就行，[https://bewildcard.com/](https://bewildcard.com/) 。
 
-我个人是 6 月底那会他们这个产品还在内测的时候用的，开卡费和充值手续费都有一些优惠，通过我的邀请链接注册开卡，可以享受 88 折，开发费由 15.9 变成 14 刀，给我这边返 2 美元，需要这个折扣的同学，可以通过 [https://bewildcard.com/i/XIRONG](https://bewildcard.com/i/XIRONG) 这个链接注册、实名认证、开卡。
+我个人是 6 月底那会他们这个产品还在内测的时候用的，开卡费和充值手续费都有一些优惠，通过我的邀请链接注册开卡，可以享受 88 折，开发费由 15.9 变成 13.99 刀，给我这边返 2 美元，需要这个折扣的同学，可以通过 [https://bewildcard.com/i/XIRONG](https://bewildcard.com/i/XIRONG) 这个链接注册、实名认证、开卡。
 
 他们也有个电报群，里面有很多信息可以看，也能了解最新资讯。
 
