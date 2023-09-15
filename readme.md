@@ -119,7 +119,7 @@ OpenAI 的联合创始人Andrej Karpthy 在2023 微软开发者大会上的演�
 
 
 ## 微软 AI for Beginner
-![](../_resources/Pasted%20image%2020230914172012.png)
+![](attachment/Pasted%20image%2020230914172012.png)
 [microsoft/AI-For-Beginners: 12 Weeks, 24 Lessons, AI for All! (github.com)](https://github.com/microsoft/AI-For-Beginners) 
 
 ## 其它
