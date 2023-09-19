@@ -144,6 +144,20 @@ OpenAI 的联合创始人Andrej Karpthy 在2023 微软开发者大会上的演�
 看看我司日常研发、测试过程中的实践 case，具体查看
 - [[中文语义理解](practice-cases/中文语义理解.md)]
 - [辅助解决日常难题](practice-cases/辅助解决日常难题.md)
+- [正则表达式场景](practice-cases/正则表达式场景.md)
+- [辅助提供业务数据](practice-cases/辅助提供业务数据.md)
+- [完成一个开发小需求案例](practice-cases/完成一个开发小需求案例.md)
+- [unit_test案例](practice-cases/unit_test案例.md)
+
+
+[2023.8.07-100% 手写代码的十九年老程序员就要被淘汰吗？AIGC 能在哪些方面帮到程序员？)](https://mp.weixin.qq.com/s/JfUsAhvFEjQaWx-kjJVTEQ) 一名拥有 19 年编码经验、会 100% 手写代码的程序员 Alex 在面试中败给一位仅有 4 年经验却善用 Copilot、GPT-4 的新人 Hamid。前者因不愿拒绝使用辅助代码工具，过于追求代码可控，惨遭面试淘汰，而后者轻松拿到了全职 Offer。
+
+[2023.5.22 让AI替你打工？GPT提升开发效率指南 (qq.com)](https://mp.weixin.qq.com/s/n892nx80FUV-JerMwzDHkQ) 这篇文章在整个研发日常过程中，如需求分析、技术方案、编码、测试、发布、运营等各个环节，提效的场景介绍。最后也介绍了开发者使用AI大模型的注意事项。
+
+[2023.5.11GPT4 结对编程实战，鹅厂一线研发真实使用感受 (qq.com)](https://mp.weixin.qq.com/s/G5FnZjQiI20fb6XMIyxO0w) 在正则表达式编写、重构代码、实现业务逻辑、改bug与写单测、取名字等这几类场景下面的实践。
+
+[2023.3.31浅评ChatGPT在软件开发上的辅助能力（附GPT-4对比） (qq.com)](https://mp.weixin.qq.com/s/GMMjF9sDv0c31AoRTXSIYA)
+
 
 # 大模型目前的局限性
 
