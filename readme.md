@@ -62,12 +62,12 @@ ChatGPT 官网网址： https://chat.openai.com ，作为互联网人的个体�
 
 ### GPT-4
 
-至于 GPT-4 ，个人推荐有余力的同学尽快开通体验，目前业界最顶级的大模型，无论国外还是国内的其他各种大模型，在文本领域，GPT-4是王者。 紧跟 AI 大时代的发展，就得多体验，多思考，升级 GPT-4的方法参考 [汇总4 类升级GPT-4的方法，总有一种适合你](upgrade-GPT-4.md)
+至于 GPT-4 ，个人推荐有余力的同学尽快开通体验，目前业界最顶级的大模型，无论国外还是国内的其他各种大模型，在文本领域，GPT-4是王者。 紧跟 AI 大时代的发展，就得多体验，多思考，升级 GPT-4的方法参考 [汇总4 类升级GPT-4的方法，总有一种适合你](upgrade_GPT-4.md)
 
 ### 加快梯子上网速度
 
 之前写过一篇文章，介绍 [Clash](https://dreamacro.github.io/clash/)  软件如何自定义配置，加快访问速度的，因为默认的规则有几万条，在几万条规则里面路由，也是需要耗时的，自定义调整后，去掉不用的，每个人可能也就几十条
-经过同事们的体验，效果的确比默认要好很多，大家有需要的也可以配置下，配置方法参考 [自定义配置，加快梯子科学上网访问速度](improve-speed-of-ladder.md)
+经过同事们的体验，效果的确比默认要好很多，大家有需要的也可以配置下，配置方法参考 [自定义配置，加快梯子科学上网访问速度](improve_speed_of_ladder.md)
 
 
 # 向普通人解释 GPT 原理
@@ -80,7 +80,7 @@ OpenAI 的联合创始人Andrej Karpthy 在2023 微软开发者大会上的演�
 > Andrej真的有当导师的潜力，把非常技术的内容讲得深入浅出，而又异常透彻。这个演讲完全可以让非专业人士也能理解，并且，认真看完演讲后会有一种醍醐灌顶的感觉。
 
 **视频地址：**
-- 微软官方英文原版 [State of GPT | Microsoft developers](https://www.youtube.com/watch?v=bZQun8Y4L2A) 可以配合[YouTube双语字幕插件)](https://www.dual-subtitles.com/)使用，效果最好。整理的中文文字稿如下：[state-of-gpt-中文稿](state-of-gpt-中文稿.md)
+- 微软官方英文原版 [State of GPT | Microsoft developers](https://www.youtube.com/watch?v=bZQun8Y4L2A) 可以配合[YouTube双语字幕插件)](https://www.dual-subtitles.com/)使用，效果最好。整理的中文文字稿如下：[state_of_gpt_中文稿](state_of_gpt_中文稿.md)
 - 也可以直接看网友翻译后的中文版本 [State of GPT（GPT的现状）中文字幕精校版 | Andrej Karpathy 微软Build大会精彩演讲 | GPT状态和原理 | 解密OpenAI模型训练 - YouTube](https://www.youtube.com/watch?v=b8WIHOcp9ck)
 - 有中文的总结文章参考：[精华笔记：微软 Build 2023 开发者大会专题演讲：State of GPT（GPT 的现状） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/634545092)
 - 视频中原版英文 PPT 如下 ![State of GPT](attachment/stateofgpt.pdf)，
@@ -132,22 +132,16 @@ OpenAI 的联合创始人Andrej Karpthy 在2023 微软开发者大会上的演�
 跟着李沐学AI，里面有很多论文解读，自己看英文以及没有科班背景，听他讲解，效果非常好。B站[跟李沐学AI的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/1567748478) 或者 YouTube [Mu Li - YouTube](https://www.youtube.com/@mu_li)
 
 
-# 写好提示词
-
-截止到2023.7月份，有两大 prompt 撰写模型，一个是以 CRISPE 为代表的 `背景-身份-指令` 模型，一个是以 `langGPT` 为代表的 `结构化prompt` 模型，效果都不错，具体可以看下面。
-
-这个 md 是专门写提示词的，里面介绍了什么是prompt、prompt 原则、prompt 模型、prompt 编程等概念，详细参考 [AI时代，人人必备的高质量提示词撰写技巧](prompt-Writing.md)
-
-
-# 业界实践
+# 业界实践案例
 
 看看我司日常研发、测试过程中的实践 case，具体查看
-- [[中文语义理解](practice-cases/中文语义理解.md)]
-- [辅助解决日常难题](practice-cases/辅助解决日常难题.md)
-- [正则表达式场景](practice-cases/正则表达式场景.md)
-- [辅助提供业务数据](practice-cases/辅助提供业务数据.md)
-- [完成一个开发小需求案例](practice-cases/完成一个开发小需求案例.md)
-- [unit_test案例](practice-cases/unit_test案例.md)
+- [[中文语义理解](practice_cases/中文语义理解.md)]
+- [辅助解决日常难题](practice_cases/辅助解决日常难题.md)
+- [正则表达式场景](practice_cases/正则表达式场景.md)
+- [辅助提供业务数据](practice_cases/辅助提供业务数据.md)
+- [完成一个开发小需求案例](practice_cases/完成一个开发小需求案例.md)
+- [unit_test案例](practice_cases/unit_test案例.md)
+- ……具体看 practice-cases 目录内容
 
 
 [2023.8.07-100% 手写代码的十九年老程序员就要被淘汰吗？AIGC 能在哪些方面帮到程序员？)](https://mp.weixin.qq.com/s/JfUsAhvFEjQaWx-kjJVTEQ) 一名拥有 19 年编码经验、会 100% 手写代码的程序员 Alex 在面试中败给一位仅有 4 年经验却善用 Copilot、GPT-4 的新人 Hamid。前者因不愿拒绝使用辅助代码工具，过于追求代码可控，惨遭面试淘汰，而后者轻松拿到了全职 Offer。
@@ -157,6 +151,13 @@ OpenAI 的联合创始人Andrej Karpthy 在2023 微软开发者大会上的演�
 [2023.5.11GPT4 结对编程实战，鹅厂一线研发真实使用感受 (qq.com)](https://mp.weixin.qq.com/s/G5FnZjQiI20fb6XMIyxO0w) 在正则表达式编写、重构代码、实现业务逻辑、改bug与写单测、取名字等这几类场景下面的实践。
 
 [2023.3.31浅评ChatGPT在软件开发上的辅助能力（附GPT-4对比） (qq.com)](https://mp.weixin.qq.com/s/GMMjF9sDv0c31AoRTXSIYA)
+
+
+# 写好提示词
+
+截止到2023.7月份，有两大 prompt 撰写模型，一个是以 CRISPE 为代表的 `背景-身份-指令` 模型，一个是以 `langGPT` 为代表的 `结构化prompt` 模型，效果都不错，具体可以看下面。
+
+这个 md 是专门写提示词的，里面介绍了什么是prompt、prompt 原则、prompt 模型、prompt 编程等概念，详细参考 [AI时代，人人必备的高质量提示词撰写技巧](prompt-Writing.md)
 
 
 # 大模型目前的局限性

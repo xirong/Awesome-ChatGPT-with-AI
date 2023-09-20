@@ -40,3 +40,18 @@ clash 代理勾选如下：
 如果不放心，可以看看 clash dashboard的日志，哪个连接最终走的是啥都有显示
 
 ![](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/meonaXavdGErlXxj/img/013edf33-7009-4b9a-abe7-bff0b7bbc879.png)
+
+------------------------------------------------------------------------------------------------
+
+2023-09-18 更新，**clash规则实现不同的网站配置走不同的代理地址。**
+
+例如openAI的代理走美国线路，其他的走proxy通用线路，proxy自己可以选择香港、日本等速度较快的节点，来实现不同的网站走不同的代理策略。
+
+截图中的， 美国4-迈阿密 是我的一个代理的name，proxy就是通用的自己在clash中选择的路线。
+
+![](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/meonaXavdGErlXxj/img/ed12765c-6181-4d7d-95e3-8a587aeaee8e.png)
+
+使用效果如下，通过这个也能看到，配置的OpenAI走的是美国4的代理，google是我proxy中的香港。
+
+![](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/meonaXavdGErlXxj/img/637fa3a8-20a7-43e9-82bb-0bcc961c9b8a.png)
+
