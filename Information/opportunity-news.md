@@ -1,5 +1,7 @@
 # 探索应用场景资讯
 
+[2023.9.1 - 8.23 中国大模型「顶流群聊」笔记 (qq.com)](https://mp.weixin.qq.com/s/-uCVv5SOLoZUATvqiTsdoA)
+
 [‍‌​⁢‍⁢⁤⁡﻿⁡⁡⁡⁤‌⁡﻿‍⁣‬﻿​⁢⁡‍⁤⁣⁣‍​⁤‍⁤​⁤⁤​⁡‬‌‍⁣‍⁤⁢⁤‌‌‍⁡‍2023.08.15_大模型赛道的技术和应用分析（残缺） - 飞书云文档 (feishu.cn)](https://whjlnspmd6.feishu.cn/wiki/DBnWwik1piTB6Iki02CcXoVQn3S)
 
 [2023.8.14 对话杨植麟：Moonshot AI即将完成超10亿元融资，公司最终目标并非超越OpenAI (qq.com)](https://mp.weixin.qq.com/s/mvBzhNmM-skPmxrXIpxUlQ) 

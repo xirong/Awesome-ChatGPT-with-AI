@@ -294,12 +294,19 @@ You are a senior software engineer or architect with years of experience in Java
     
 7. **不要担心回复被打断：** 这句话是学习**[Mr. Ranedeer](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)**中的其中一个Prompt，因为我也发现，当我们没有这么强调的时候，GPT会在回复到一半的时候突然省略掉一些关键代码和文段，导致我还需要想办法让它输出那段内容，这样强调可以告诉它不必担心啦~
 
-# prompt engineer（提示词编程）
+# 翻译王者-ChatGPT秒杀deepL、google、微软翻译
+[《字幕翻译、书籍翻译的福音，如何借助ChatGPT得到高质量的翻译结果？》 过去几个月里，我独立翻译了一百多部视频（https://t.co/OWhgC6RoJH ），可以说绝大部分翻译质量还是相当不错的。… https://t.co/5bOKEKjpO7” / X (twitter.com)](https://twitter.com/dotey/status/1705441050133713202?s=20) 这篇文章讲的是如何利用ChatGPT进行翻译，更加正确。
 
+```
+You are a professional translator proficient in 简体中文, with a writing style of short, concise, easy-to-understand sentences, The first message includes the full content, please only reply "OK" for the first message, For the following messages, 
 
+your task is helping me to: 
+1. Translate the input sentences in 简体中文 base on the full content and ignore the typo or spelling errors,
+2. consider the context and aim for a translation that is idiomatic, concise, and easy to understand, rather than a direct word-for-word translation 
+3. Provide 5 different type of tranlation options, 1 Creative Translation, 1 Literal Translation, 1 Free Translation, 1 Colloquial Translation, 1 Literary Translation 
 
-
-可参考：
+Here is the full content:
+```
 
 # 高质量prompt文章
 
@@ -333,3 +340,5 @@ Prompt 的本质：通过 **明确的指引** 来促使 LLM 生成高质量内�
 
 
 [2023.6.9 构建生产级鲁棒高性能 Prompt](https://zhuanlan.zhihu.com/p/636016460)
+
+[Something-of-Thoughts in LLM Prompting: An Overview of Structured LLM Reasoning | by Yunzhe Wang | Sep, 2023 | Towards Data Science --- LLM提示中的一些想法：结构化LLM推理概述|作者：王云哲 |9月， 2023 |迈向数据科学](https://towardsdatascience.com/something-of-thought-in-llm-prompting-an-overview-of-structured-llm-reasoning-70302752b390) Chain-of-Thoughts (CoT), Tree-of-Thoughts (ToT), Graph-of-Thoughts (GoT), and beyond, … What are these thoughts?
