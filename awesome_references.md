@@ -11,5 +11,6 @@
 
 [‌﻿​‌﻿‍‬‌⁤⁡⁣⁣​​⁤⁤‍﻿﻿‍‍‬⁤⁤​⁡⁤﻿⁤​‬‬‌‍⁤⁡⁤⁢﻿⁤​⁢‍⁤‬⁣⁢⁢‍‌Darknet Knowledge Base - 飞书云文档 (feishu.cn)](https://wk5u55sc2e.feishu.cn/docx/U9jpdC8Tho3pJgxbKWMcVh3TnL0)
 
-我的 AIGC 整理地图
-https://f7rdq2pzot.feishu.cn/docx/FkE4dk067o02pqxg3QOcyTs6nee
+我的 AIGC 整理地图 https://f7rdq2pzot.feishu.cn/docx/FkE4dk067o02pqxg3QOcyTs6nee
+
+[AI 产品榜 aicpb.com - 飞书云文档 (feishu.cn)](https://dnipkggqxh.feishu.cn/wiki/YTIUwM6Vmij4IQkSm9PctPWunIb)
