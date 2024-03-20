@@ -1,7 +1,7 @@
 
 [‌‌​​‍⁤⁢⁤​⁢﻿‍⁢‍⁤⁢‬​‬​⁡​﻿​⁣⁡‌﻿⁤⁣​⁤⁡​​‍﻿⁢⁣​​﻿⁣⁡⁡通往 AGI 之路- 从这里启程 - 飞书云文档)](https://waytoagi.feishu.cn/wiki/PFXnwBTsEiGwGGk2QQFcdTWrnlb?table=tblolGx2mprs1EQz&view=vewx5ROYtl)
 
-[‍‬‍‍‌﻿​⁢⁣⁡⁡​‍⁡‬⁢‌⁡‬​​​‍⁤‍‌‬⁣​​⁣﻿﻿‌⁣⁡﻿⁤⁡‍​⁢⁢﻿‬⁤‍​⁣​State of GPT-中文翻译稿，按时间顺序，结合图片](https://waytoagi.feishu.cn/wiki/IXjfwF9l9iX0IzkUg1Ec0Vcinx3)
+
 
 [langGPT-云中江叔 - AI Prompt 专研 - 飞书云文档](https://aq92z6vors3.feishu.cn/wiki/RXdbwRyASiShtDky381ciwFEnpe) 有一些prompt 在 flowGPT 上面进行了分享，连接地址[ChatGPT prompts for Prompts 精选合集 | prompt collection |FlowGPT](https://flowgpt.com/collections/1BtPeHx7qaEXlG3xrGiCn)
 
@@ -14,3 +14,11 @@
 我的 AIGC 整理地图 https://f7rdq2pzot.feishu.cn/docx/FkE4dk067o02pqxg3QOcyTs6nee
 
 [AI 产品榜 aicpb.com - 飞书云文档 (feishu.cn)](https://dnipkggqxh.feishu.cn/wiki/YTIUwM6Vmij4IQkSm9PctPWunIb)
+
+
+[‌⁢​⁤⁤⁡‬⁤​⁢⁤⁢⁣⁣‌⁢⁤‍​‬‍‍⁡‌⁤⁡​﻿⁢⁡​⁤⁣​﻿⁢﻿​⁤​⁢﻿﻿﻿⁣⁤‍⁣‬﻿AIGC知识库2.0 - 飞书云文档 (feishu.cn)](https://hf0y97ff1r.feishu.cn/wiki/wikcn7kuGqheEQOaSCk5QWeVM0J?table=tblMuhjq52WBho11&view=vewHGpkWHR)
+
+
+[‌⁡﻿⁡​⁢‍‍‌‬⁡​‍⁤⁣​​﻿‍‌‬⁡⁤‬﻿‍⁤⁤﻿﻿⁡​﻿﻿‬‬‌⁢​‬‍⁣‬⁢⁢⁤﻿⁢⁡‌AI觉醒日报（一觉醒来发生了什么） - 飞书云文档 (feishu.cn)](https://diwfpqo78m.feishu.cn/wiki/wikcnI3exPnHHzON4ikfEsucckb)
+
+[🔥 紧跟AIGC风向知识库【首页-持续更新中】 - 飞书云文档 (feishu.cn)](https://szqxz4m7fs.feishu.cn/wiki/wikcnMJ5qdVdOJ03XsBZFuXIRkf)

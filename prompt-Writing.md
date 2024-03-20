@@ -7,6 +7,8 @@
 
 # 学习课程
 目前网络上有很多课程，尤其是 吴恩达教授和OpenAI联合开发的一些列课程，具体参考[GPT学习课程](readme.md#^e3c1ba)。
+[‌⁢‍​⁡‌﻿​​﻿‬​⁡​​⁡⁤​⁣​⁤​⁢‍‍‬⁢⁤‍﻿​​‬‍‍⁤⁢﻿‌⁣﻿⁤⁢​⁣⁡‍‬⁡⁡OpenAI：GPT 最佳实践中文大白话版本_未来力场编译.pdf](https://futureforce.feishu.cn/file/CMpdbLxAhon5K5x5C1OcciYwnOf)
+[Claude官方文档提示词工程最佳实践 ](https://waytoagi.feishu.cn/record/SRegrOta4ecqcXcSRuYcwXG9n7c)
 
 # 基础原则
 
